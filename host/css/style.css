@@ -1,0 +1,35 @@
+body{
+    background-color: lightgray;
+}
+.active{
+    text-align: center;
+}
+.pad{
+    padding-left: 1cm;
+}
+.material-icons {
+    position: absolute;
+}
+.navbar-default{
+    background-color:black;
+}
+.href{
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+    text-align: right;
+}
+.list-group-item-dark{
+    background-color: black;
+    color: white;
+}
+#right{
+    text-align: left;
+    width: 300;
+}
+.a{
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}

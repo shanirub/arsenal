@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Football life</title>
+<link rel="stylesheet" type="text/css" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+<script src="node_modules/jquery/dist/jquery.js" type="text/javascript"></script>
+<script src="js/premier_teams.js"></script>
+<style>
+.container{
+    text-align: center;
+}
+.list-group-item{
+    width: 100%;
+}
+</style>
+</head>
+
+<body>
+    <nav class="navbar navbar-default" role="navigation">
+        <a class="navbar-brand nav-link navbar-nav mr-auto mt-2 mt-lg-0" href="index.html"><img src="images/lion2.png" width="100" height="100" alt=""></a>
+        <a class="href nav-link" href="premier.html"><img src="images/premier2.png" width="150" height="100" alt=""></a>
+        <a class="href nav-link" href="liga.html"><img src="images/liga2.png" width="150" height="100" alt=""></a>
+        <a class="href nav-link" href="serie.html"><img src="images/serier2.png" width="150" height="100" alt=""></a>
+        <form class="form-inline">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-primary my-2 my-sm-0" type="submit">Search</button>
+        </form> 
+    </nav>
+</br>
+    <div class="container">  
+        <h1 id="title"></h1>
+        <div id="logo"></div>
+    </br>
+        <div id="col-12">
+            <div class="card">
+                <div class="card-body" id="win">
+                </div>
+            </div>
+        </div>
+    </br>
+        <div class="row row-cols-4">
+            <div class="col">
+                <ul class="list-group">
+                    <li class="list-group-item active">Country</li>
+                    <li class="list-group-item">England</li>
+                </ul>
+            </div>
+            <div class="col">
+                <ul class="list-group">
+                    <li class="list-group-item active">Facebook</li>
+                    <li class="list-group-item"><a href="www.facebook.com/Arsenal" id="face"></a></li>
+                </ul>
+            </div>
+            <div class="col">
+                <ul class="list-group">
+                    <li class="list-group-item active">Website</li>
+                    <li class="list-group-item"><a href="www.arsenal.com" id="web"></a></li>
+                </ul>
+            </div>
+            <div class="col">
+                <ul class="list-group">
+                    <li class="list-group-item active">League</li>
+                    <li class="list-group-item">English Premier League</li>
+                </ul>
+            </div>
+        </div>
+    </br>
+        <div class="row">
+            <div class="col-12">
+                <ul class="list-group">
+                    <li class="list-group-item active">History</li>
+                    <li class="list-group-item" id="description"></li>
+                </ul>
+            </div>
+        </div>
+    </br>
+        <div class="row">
+            <div class="col-12">
+                <ul class="list-group">
+                    <li class="list-group-item active" id="stad"></li>
+                    <li class="list-group-item" id="stad_des"></li>
+                </ul>
+            </div>
+        </div>
+    </br>
+        <div class="row">
+            <div class="col-12">
+                <ul class="list-group">
+                    <li class="list-group-item active"> Players</li>
+                    <li class="list-group-item">
+                        <table class="table table-striped" id="get_players">
+                            <thead class="thead-dark">
+                                <tr>
+                                <th scope="col">Image</th>
+                                <th scope="col">Name</th>
+                                <th scope="col">Birthday</th>
+                                <th scope="col">Nationality</th>
+                                <th scope="col">Number</th>
+                                <th scope="col">Position</th>
+                                </tr>
+                            </thead>
+                            <tbody id="players">
+                            </tbody>
+                        </table>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </br>
+    </div>
+    <div class="container">
+        <ul class="list-group">
+            <li class="list-group-item active">Next Matches</li>
+        </ul>
+    </br>
+        <div class="row" id="next_event">    
+        </div>
+    </div>
+</br>
+    <div class="container">
+        <ul class="list-group">
+            <li class="list-group-item active">Last Matches</li>
+        </ul>
+    </br>
+        <div class="row" id="last_event">    
+        </div>
+    </div>
+</br>
+</body>
+
+</html>
+

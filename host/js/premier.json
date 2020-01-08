@@ -1,0 +1,182 @@
+[
+	{
+	  "_id": 11,
+	  "name": "Manchester City",
+	  "mp": 20,
+	  "w": 17,
+	  "d": 4,
+	  "l": 17,
+	  "pts": 38
+	},
+	{
+	  "_id": 12,
+	  "name": "Arsenal",
+	  "mp": 20,
+	  "w": 7,
+	  "d": 13,
+	  "l": 12,
+	  "pts": 42
+	},
+	{
+	  "_id": 20,
+	  "name": "Aston Villa",
+	  "mp": 20,
+	  "w": 15,
+	  "d": 10,
+	  "l": 9,
+	  "pts": 7
+	},
+	{
+	  "_id": 15,
+	  "name": "Chelsea",
+	  "mp": 20,
+	  "w": 1,
+	  "d": 11,
+	  "l": 14,
+	  "pts": 29
+	},
+	{
+	  "_id": 8,
+	  "name": "Man United",
+	  "mp": 20,
+	  "w": 5,
+	  "d": 3,
+	  "l": 6,
+	  "pts": 41
+	},
+	{
+	  "_id": 4,
+	  "name": "Tottenham",
+	  "mp": 20,
+	  "w": 5,
+	  "d": 13,
+	  "l": 18,
+	  "pts": 49
+	},
+	{
+	  "_id": 3,
+	  "name": "Leicester",
+	  "mp": 20,
+	  "w": 15,
+	  "d": 9,
+	  "l": 7,
+	  "pts": 50
+	},
+	{
+	  "_id": 18,
+	  "name": "Fullham",
+	  "mp": 20,
+	  "w": 11,
+	  "d": 19,
+	  "l": 2,
+	  "pts": 13
+	},
+	{
+	  "_id": 2,
+	  "name": "Wolves",
+	  "mp": 20,
+	  "w": 9,
+	  "d": 17,
+	  "l": 8,
+	  "pts": 51
+	},
+	{
+	  "_id": 17,
+	  "name": "Crystal Palace",
+	  "mp": 20,
+	  "w": 20,
+	  "d": 10,
+	  "l": 17,
+	  "pts": 18
+	},
+	{
+	  "_id": 14,
+	  "name": "Sheffield United",
+	  "mp": 20,
+	  "w": 9,
+	  "d": 19,
+	  "l": 19,
+	  "pts": 29
+	},
+	{
+	  "_id": 9,
+	  "name": "Burnley",
+	  "mp": 20,
+	  "w": 6,
+	  "d": 9,
+	  "l": 6,
+	  "pts": 40
+	},
+	{
+	  "_id": 13,
+	  "name": "Bournemouth",
+	  "mp": 20,
+	  "w": 17,
+	  "d": 3,
+	  "l": 3,
+	  "pts": 29
+	},
+	{
+	  "_id": 6,
+	  "name": "Newcastle",
+	  "mp": 20,
+	  "w": 2,
+	  "d": 20,
+	  "l": 2,
+	  "pts": 45
+	},
+	{
+	  "_id": 19,
+	  "name": "Brighton",
+	  "mp": 20,
+	  "w": 13,
+	  "d": 19,
+	  "l": 13,
+	  "pts": 8
+	},
+	{
+	  "_id": 10,
+	  "name": "Everton",
+	  "mp": 20,
+	  "w": 5,
+	  "d": 3,
+	  "l": 19,
+	  "pts": 39
+	},
+	{
+	  "_id": 16,
+	  "name": "Liverpool",
+	  "mp": 20,
+	  "w": 18,
+	  "d": 12,
+	  "l": 6,
+	  "pts": 20
+	},
+	{
+	  "_id": 1,
+	  "name": "Norwich",
+	  "mp": 20,
+	  "w": 6,
+	  "d": 20,
+	  "l": 20,
+	  "pts": 53
+	},
+	{
+	  "_id": 5,
+	  "name": "Watford",
+	  "mp": 20,
+	  "w": 8,
+	  "d": 4,
+	  "l": 10,
+	  "pts": 46
+	},
+	{
+	  "_id": 7,
+	  "name": "Southampton",
+	  "mp": 20,
+	  "w": 20,
+	  "d": 1,
+	  "l": 6,
+	  "pts": 41
+	}
+  ]
